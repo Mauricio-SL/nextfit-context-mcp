@@ -1,0 +1,4 @@
+# Acrescente esta seção à configuração existente; ajuste o caminho se mover a pasta.
+[mcp_servers.nextfit-context]
+command = 'C:\Program Files\nodejs\node.exe'
+args = ['C:\Users\Mauricio Lima\Documents\Codex\2026-11-18\que\outputs\nextfit-context-mcp\src\server.mjs']
